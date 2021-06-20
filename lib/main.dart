@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'tesla_app/app.dart';
+import 'customswitch/app.dart';
+
 
 void main() {
-  runApp(TeslaApp());
+  runApp(App());
 }
 
